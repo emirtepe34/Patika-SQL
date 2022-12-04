@@ -1,4 +1,4 @@
- 1) SELECT title, description FROM film;
+ 1)SELECT title, description FROM film;
  2)SELECT 	* FROM	film
    WHERE length < 75 AND length > 60;
  3)SELECT * FROM film
